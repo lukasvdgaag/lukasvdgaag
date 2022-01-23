@@ -1,16 +1,19 @@
+<a href="https://www.gcnt.net/" title="GCNT - Custom Professional Minecraft Development">
+<img src="https://www.gcnt.net/inc/img/banner.png" alt="GCNT Banner" height="200px">
+</a>
+  
 ### Hi there 👋
+I'm Lukas, a Dutch Java programmer who creates Minecraft plugins.
 
-<!--
-**lukasvdgaag/lukasvdgaag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am the founder of GCNT, a Minecraft Bukkit plugin development team. We creates free, premium, and custom resources, as well as websites and Discord bots.
+Need a custom plugin? Join our Discord: https://www.gcnt.net/discord.
 
-Here are some ideas to get you started:
+- 👨‍💻 Lead developer of GCNT Development
+- ⚔️ Creator of [SkyWarsReloaded](https://www.gcnt.net/swr)
+- 🏫 Amsterdam University of Applied Sciences - Software Engineer
+- 📫 How to reach me: **GCNT#0001** on Discord
+- 📧 Email: gaagjescraft@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasvdgaag&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasvdgaag&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
