@@ -6,7 +6,7 @@
 I'm Lukas, a Dutch Java programmer who creates Minecraft plugins.
 
 I am the founder of GCNT, a Minecraft Bukkit plugin development team. We creates free, premium, and custom resources, as well as websites and Discord bots.
-Need a custom plugin? Join our Discord: https://www.gcnt.net/discord.
+Need something custom? Join our Discord: https://www.gcnt.net/discord.
 
 - 👨‍💻 Lead developer of GCNT Development
 - ⚔️ Creator of [SkyWarsReloaded](https://www.gcnt.net/swr)
