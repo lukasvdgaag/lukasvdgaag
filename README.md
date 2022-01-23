@@ -15,5 +15,3 @@ Need a custom plugin? Join our Discord: https://www.gcnt.net/discord.
 - 📧 Email: gaagjescraft@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasvdgaag&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasvdgaag&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
