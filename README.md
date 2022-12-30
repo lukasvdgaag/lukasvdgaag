@@ -3,13 +3,14 @@
 </a>
   
 ### Hi there 👋
-I'm Lukas, a Dutch Java programmer who creates Minecraft plugins.
+I'm Lukas, a Dutch Java and Web programmer who creates Minecraft plugins and web apps.
 
 I am the founder of GCNT, a Minecraft Bukkit plugin development team. We create free, premium, and custom resources, as well as websites and Discord bots.
 Need something custom? Join our Discord: https://www.gcnt.net/discord.
 
 - 👨‍💻 Lead developer of GCNT Development
 - ⚔️ Creator of [SkyWarsReloaded](https://www.gcnt.net/swr)
+- 🧠 What I've worked with: **Java** (Bukkit, Spring Boot, JavaFX), **Web** (JS, PHP, NodeJS, VueJS, Laravel), **Data** (SQL, MongoDB)
 - 🏫 Amsterdam University of Applied Sciences - Software Engineer
 - 📫 How to reach me: **GCNT#0001** on Discord
 - 📧 Email: gaagjescraft@gmail.com
