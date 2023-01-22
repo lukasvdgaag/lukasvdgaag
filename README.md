@@ -15,4 +15,4 @@ Need something custom? Join our Discord: https://www.gcnt.net/discord.
 - 📫 How to reach me: **GCNT#0001** on Discord
 - 📧 Email: gaagjescraft@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasvdgaag&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasvdgaag&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
