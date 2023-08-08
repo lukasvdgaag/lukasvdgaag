@@ -15,5 +15,6 @@ Need something custom? Join our Discord: https://www.gcnt.net/discord.
 - 🏫 Amsterdam University of Applied Sciences - Software Engineer
 - 📫 How to reach me: **@megafridge** on Discord
 - 📧 Email: gaagjescraft@gmail.com
+- 💼 Find me on LinkedIn: [in/lukasvdgaag](https://www.linkedin.com/in/lukasvdgaag/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasvdgaag&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasvdgaag&show_icons=true&include_all_commits=true&theme=buefy&count_private=true&hide_border=true&cache_seconds=14400)](https://github.com/anuraghazra/github-readme-stats)
