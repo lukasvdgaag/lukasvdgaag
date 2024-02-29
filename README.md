@@ -7,7 +7,7 @@ I'm Lukas, a Dutch Java and Web software engineer who creates Minecraft plugins 
 
 I am the founder of Devmart (previously known as GCNT), a Minecraft Bukkit plugin and web application development team.  
 We create free, premium, and custom resources, as well as websites and Discord bots.
-Need something custom? Join our Discord: https://www.gcnt.net/discord.
+Need something custom? Join our Discord: https://www.devmart.net/discord.
 
 - 👨‍💻 Lead developer at Devmart (GCNT) Development
 - ⚔️ Creator of [SkyWarsReloaded](https://www.devmart.net/swr)
