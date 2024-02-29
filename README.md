@@ -1,5 +1,5 @@
-<a href="https://www.gcnt.net/" title="GCNT - Custom Professional Minecraft Development">
-<img src="https://www.gcnt.net/inc/img/banner.png" alt="GCNT Banner" height="200px">
+<a href="https://www.devmart.net/" title="Devmart - Custom Professional Minecraft and Web Development">
+<img src="https://www.gcnt.net/inc/img/banner.png" alt="Devmart Banner" style="max-height: 200px">
 </a>
   
 ### Hi there 👋
@@ -10,8 +10,8 @@ We create free, premium, and custom resources, as well as websites and Discord b
 Need something custom? Join our Discord: https://www.gcnt.net/discord.
 
 - 👨‍💻 Lead developer at Devmart (GCNT) Development
-- ⚔️ Creator of [SkyWarsReloaded](https://www.gcnt.net/swr)
-- 🧠 What I've worked with: **Java** (Bukkit, Spring Boot, JavaFX), **Web** (JavaScript, PHP, NodeJS, VueJS, Laravel), **Data** (SQL, MongoDB)
+- ⚔️ Creator of [SkyWarsReloaded](https://www.devmart.net/swr)
+- 🧠 What I've worked with: **Java** (Bukkit, Spring Boot, JavaFX), **Web** (JavaScript, PHP, React, NodeJS, VueJS, Laravel), **Data** (SQL, MongoDB)
 - 🏫 Amsterdam University of Applied Sciences - Software Engineer
 - 📫 How to reach me: **@megafridge** on Discord
 - 📧 Email: gaagjescraft@gmail.com
