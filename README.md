@@ -1,6 +1,6 @@
-<a href="https://www.devmart.net/" title="Devmart - Custom Professional Minecraft and Web Development">
+<!-- <a href="https://www.devmart.net/" title="Devmart - Custom Professional Minecraft and Web Development">
 <img src="https://www.gcnt.net/inc/img/banner.png" alt="Devmart Banner" style="max-height: 200px">
-</a>
+</a> -->
   
 ### Hi there 👋
 I'm Lukas, a Dutch Java and Web software engineer who creates Minecraft plugins and web applications.
